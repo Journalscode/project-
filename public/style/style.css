@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+form {
+  margin-bottom: 20px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li a {
+  text-decoration: none;
+  color: blue;
+}
